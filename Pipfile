@@ -1,0 +1,24 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+jupyter = "*"
+ipywidgets = "*"
+jupyter-contrib-nbextensions = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.6"
