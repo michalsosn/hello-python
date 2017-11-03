@@ -13,6 +13,7 @@ jupyter-contrib-nbextensions = "*"
 numpy = "*"
 scipy = "*"
 matplotlib = "*"
+pytz = "*"
 
 
 [dev-packages]
